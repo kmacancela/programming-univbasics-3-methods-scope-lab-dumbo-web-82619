@@ -13,6 +13,6 @@ def link
   puts "It's Dangerous To Go Alone! Take This."
 end
 
-def any_phase(phase)
-  puts "#{phase}"
+def any_phase(phrase)
+  puts "#{phrase}"
 end
